@@ -1,12 +1,11 @@
-Student Data Entry Application
+Student Data Entry Application - 
+
+
 This application provides a simple and efficient way to manage student data, including details such as PRN, Name, Branch, Batch, and CGPA, using MySQL as the database and JDBC for database connectivity.
 
-Technologies Used
-Java
+Technologies Used -
 
-MySQL
-
-JDBC (Java Database Connectivity)
+Java, MySQL, JDBC (Java Database Connectivity)
 
 Features
 The application supports the following features:
