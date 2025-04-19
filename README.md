@@ -7,16 +7,22 @@ Technologies Used -
 
 Java, MySQL, JDBC (Java Database Connectivity)
 
-Features
+Features - 
+
 The application supports the following features:
+
 
 Insert Student: Adds a new student record to the database.
 
+
 View Students: Retrieves and displays all student records.
+
 
 Update Student: Updates the details of an existing student record.
 
+
 Delete Student: Deletes a student record from the database.
+
 
 Project Structure
 Student.java: The model class representing a student.
