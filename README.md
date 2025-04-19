@@ -24,7 +24,8 @@ Update Student: Updates the details of an existing student record.
 Delete Student: Deletes a student record from the database.
 
 
-Project Structure
+Project Structure - 
+
 Student.java: The model class representing a student.
 
 StudentOperations.java: Class that handles CRUD operations (Create, Read, Update, Delete).
